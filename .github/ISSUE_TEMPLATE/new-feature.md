@@ -1,6 +1,6 @@
 ---
 name: New Feature
-about: Introduction of a completely new addition to the codebase
+about: Introduction or enhancement of a new feature 
 title: ''
 labels: 'new feature'
 assignees: ''
